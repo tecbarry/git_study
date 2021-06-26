@@ -14,3 +14,4 @@ test.txt
 
 test2.txt modified at local: .../git_proj2 2021/6/26
 test2.txt modified at local: .../git_proj  2021/6/26 (2nd mdy)
+test2.txt modified at local: .../git_proj2 2021/6/26 (2nd mdy)
