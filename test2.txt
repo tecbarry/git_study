@@ -12,5 +12,4 @@ test.txt
 --------
 #5
 
-20210626
-modified at local: .../git_proj
+test2.txt modified at local: .../git_proj2 2021/6/26
